@@ -34,4 +34,5 @@ int main() {
     printVector(arr);
     return 0;
     // change()
+    // change(with cmd)
 }
